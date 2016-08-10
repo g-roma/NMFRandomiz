@@ -20,3 +20,7 @@ Make sure you have all requirements and run
 python NMFRandomiz.py
 
 Use the interface to load a wav file and explore the parameters ...
+
+Examples
+--------
+Find some examples [here](https://g-roma.github.io/NMFRandomiz/)
